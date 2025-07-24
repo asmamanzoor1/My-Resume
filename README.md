@@ -1,6 +1,4 @@
-# 📄 Asma Manzoor's Resume
-
-Welcome to my resume 
+# Asma Manzoor Resume
 
 This repository contains the most recent version of my resume in PDF format.  
 I'm currently working on new and exciting projects 🛠️ and pursuing my **Google Cybersecurity Certification** 🔐📚 — so this resume will be updated **regularly** with more skills, experience, and accomplishments! 💪
