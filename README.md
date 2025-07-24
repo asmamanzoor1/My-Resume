@@ -3,8 +3,6 @@
 This repository contains the most recent version of my resume in PDF format.  
 I'm currently working on new and exciting projects 🛠️ and pursuing my **Google Cybersecurity Certification** 🔐📚 — so this resume will be updated **regularly** with more skills, experience, and accomplishments! 💪
 
-## 📬 Contact
-
 ## 🌐 Connect with Me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asmamanzoor1)
